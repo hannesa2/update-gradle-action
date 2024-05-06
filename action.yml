@@ -1,4 +1,4 @@
-name: 'Update Gradle Wrapper Action'
+name: 'Update Gradle Action'
 description: 'Keeps Gradle Wrapper script in your projects up-to-date'
 author: 'Cristian Greco'
 
